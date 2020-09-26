@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到小吉的个人博客
 
 You can use the [editor on GitHub](https://github.com/wave-u/-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
